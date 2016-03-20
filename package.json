@@ -1,0 +1,13 @@
+{
+  "name": "OcamlEasy_format",
+  "version": "1.2.0",
+  "description": "Ocaml's easy-format for CommonML",
+  "dependencies": {
+    "CommonML": "git://github.com/jordwalke/CommonML.git"
+  },
+  "CommonML": {
+    "exports": [
+      "Easy_format"
+    ]
+  },
+}
